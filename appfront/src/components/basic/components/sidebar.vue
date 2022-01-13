@@ -3,7 +3,7 @@
     <div class="ui basic segment">
       <div :style="{ height: getHeight + 'px' }">
         <img
-          :src="$store.state.icon"
+          :src="$store.state.icon "
           class="ui circular centered image"
           style="width: 120px"
         />
